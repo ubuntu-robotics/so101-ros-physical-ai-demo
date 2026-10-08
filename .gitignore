@@ -34,14 +34,5 @@ compile_commands.json
 .DS_Store
 Thumbs.db
 
-# --- Rerun (optional, if you generate local recordings/caches) ---
-*.rrd
-
-# --- Pixi ---
-.pixi/
-
 # --
 *keys.sh
-
-*.lock
-*.snap
